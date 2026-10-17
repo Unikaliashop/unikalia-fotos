@@ -1,0 +1,1 @@
+17-10/18-10: BOT_N_IBASICA, IC, IBB y F solo tenían la foto principal antes de subir PT01-PT07 (no hay otras imágenes que restaurar). BOT_N_PADRE_EST solo tenía la principal.
